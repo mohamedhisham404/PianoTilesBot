@@ -4,4 +4,6 @@ IDLE
 بتاع بايثون
 
 import pyautogui
+
+
 pyautogui.displatMousePosition()
